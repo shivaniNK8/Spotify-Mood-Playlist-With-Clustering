@@ -1,2 +1,4 @@
-# Spotify-Mood-Playlist
-Spotify Mood Playlist Project
+# SpotifyApp
+Python Notebook: Modeling code <br>
+
+SpotifyApp: Streamlit application
